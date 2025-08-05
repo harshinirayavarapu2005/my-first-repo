@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Page-1" id="Lc6mEnOVUMmQYY2qxB1S">
+    <mxGraphModel dx="1489" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-45" value="&lt;b&gt;Zomato decides&lt;/b&gt;&lt;div&gt;&lt;b&gt;new features(eg.,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;faster delivery etc.)&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-46" value="&lt;b&gt;Add features like&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;ordering,payments,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;and tracking.&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-49" value="Mobile apps and backend systems are built." style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="256.16" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-50" value="&lt;b&gt;Zomato monitors app and servers.Fix any issues like app crashes etc..&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=light-dark(#000000,#FF6666);gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-51" value="Make sure orders,payments, and app screens work properly." style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-53" value="&lt;b&gt;App updates are sent to the Play store/App store.&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-55" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=0;fillColor=light-dark(#FFFFFF,#CCCCFF);" vertex="1" parent="1">
+          <mxGeometry x="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-56" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=65;fillColor=light-dark(#FFFFFF,#CCCCFF);" vertex="1" parent="1">
+          <mxGeometry x="452.19" y="-8.6" width="121.64" height="112.58" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-57" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=95;fillColor=light-dark(#FFFFFF,#CCCCFF);" vertex="1" parent="1">
+          <mxGeometry x="623.52" y="157.51" width="94.2" height="100.74" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-59" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-45;fillColor=light-dark(#FFFFFF,#CCCCFF);" vertex="1" parent="1">
+          <mxGeometry x="32.91" y="147.47" width="119.05" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-61" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-90;fillColor=light-dark(#FFFFFF,#CCCCFF);" vertex="1" parent="1">
+          <mxGeometry x="10" y="382.68" width="151.72" height="87.32" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-62" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=125;fillColor=light-dark(#FFFFFF,#CCCCFF);" vertex="1" parent="1">
+          <mxGeometry x="606.18" y="387.03" width="161.22" height="92.48" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-63" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-195;fillColor=light-dark(#FFFFFF,#CCCCFF);" vertex="1" parent="1">
+          <mxGeometry x="433.78" y="588.56" width="154.64" height="74.9" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-64" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-125;fillColor=light-dark(#FFFFFF,#CCCCFF);" vertex="1" parent="1">
+          <mxGeometry x="169.68" y="559.83" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-67" value="&lt;b&gt;DEVOPS&lt;/b&gt;&lt;div&gt;&lt;b&gt;Food Delivery&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;App&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-68" value="&lt;b&gt;After testing the team approves the update.It&#39;s ready to go live.&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="320" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5F1Drccyh9J4VM4AhEJ2-71" value="&lt;div&gt;Zomato watches how the app performs.&lt;/div&gt;&lt;div&gt;&lt;div&gt;Uses feedback to improve.&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#E6D0DE,#009999);gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="100" y="67.47" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
