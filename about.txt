@@ -1,0 +1,3 @@
+name:R.harshini
+course:3rd BSC-A
+about GitHub:GitHub helps in version control and collaboration by storing code in repositories.
